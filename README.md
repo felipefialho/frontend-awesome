@@ -318,6 +318,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Testing
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Natural-language web testing with advanced memidex memory and self-improvement.
 - [Testr](http://testr.com.br/)
 
 ## Vue
