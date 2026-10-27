@@ -121,6 +121,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Favicons Generators
 
+- [APPLORE App Icon Generator](https://applore.app/app-icon-generator)
 - [Favic-o-matic](http://www.favicomatic.com/)
 - [Favicon & App Icon Generator](http://www.favicon-generator.org/)
 - [Real Favicon Generator](http://realfavicongenerator.net/)
@@ -293,6 +294,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 - [Sinwaver Generate SVG Sine Waves](https://www.sinwaver.com/)
 - [Awesome SVG](https://github.com/willianjusten/awesome-svg) :octocat:
+- [PixelTools Image to SVG](https://pixeltools.ai/image-to-svg) - Convert PNG images to adjustable SVG vectors in the browser.
 - [Svgomg](https://jakearchibald.github.io/svgomg/)
 
 ## Text Generators
@@ -327,6 +329,7 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 
 ## Testing
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Natural-language web testing with advanced memidex memory and self-improvement.
 - [Testr](http://testr.com.br/)
 
 ## Vue
