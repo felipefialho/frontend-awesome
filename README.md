@@ -1,11 +1,20 @@
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/23492511/84625a9e-fee3-11e6-99e0-326160af5f3c.png" width="200"></p>
+<p align="center">
+  <a href="https://github.com/felipefialho/frontend-awesome">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/banner-dark.png">
+      <img src="./.github/assets/banner-light.png" alt="frontend-awesome" width="560">
+    </picture>
+  </a>
+</p>
 
-# Frontender Tools
+<p align="center">A curated list of tools and resources for front-end developers.</p>
 
-[![license](https://img.shields.io/github/license/felipefialho/frontend-tools.svg)](./license.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/frontend-tools.svg)](https://github.com/felipefialho/frontend-tools/graphs/contributors)
+<p align="center">
+  <a href="./license.md"><img src="https://img.shields.io/github/license/felipefialho/frontend-awesome.svg?color=6E56FF" alt="license"></a>
+  <a href="https://github.com/felipefialho/frontend-awesome/graphs/contributors"><img src="https://img.shields.io/github/contributors/felipefialho/frontend-awesome.svg?color=FF4F8B" alt="GitHub contributors"></a>
+</p>
 
-Follows a list with links of online useful tools to Front-End Developers.
+> Formerly known as **frontend-tools**.
 
 __Help the community doing your contribution. It's easy and simple. Just keep sections in alphabetic order__.
 
