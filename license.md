@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Felipe Fialho
+Copyright (c) 2017-present Felipe Fialho and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

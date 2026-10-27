@@ -7,16 +7,23 @@
   </a>
 </p>
 
-<p align="center">A curated list of tools and resources for front-end developers.</p>
+<p align="center"><strong>The front-end developer's toolbox.</strong><br>A curated, community-maintained list of tools and resources for building for the web.</p>
 
 <p align="center">
   <a href="./license.md"><img src="https://img.shields.io/github/license/felipefialho/frontend-awesome.svg?color=6E56FF" alt="license"></a>
   <a href="https://github.com/felipefialho/frontend-awesome/graphs/contributors"><img src="https://img.shields.io/github/contributors/felipefialho/frontend-awesome.svg?color=FF4F8B" alt="GitHub contributors"></a>
 </p>
 
-> Formerly known as **frontend-tools**.
+## About
 
-__Help the community doing your contribution. It's easy and simple. Just keep sections in alphabetic order__.
+**frontend-awesome** is a hand-picked collection of tools, services and references that make front-end work faster and better, from accessibility checks and performance audits to SVG, fonts and images. Every entry is reviewed by the community, and links that die or projects that get abandoned are removed, so the list stays useful.
+
+> [!NOTE]
+> Started in 2017 as **frontend-tools**, the project got a new name and identity in 2026. Old links to `felipefialho/frontend-tools` keep working and redirect here.
+
+Found something awesome? Read the [contribution guidelines](./contributing.md) and open a pull request.
+
+## Contents
 
 - [Acessibility Validators](#acessibility-validators)
 - [API](#api)
@@ -350,6 +357,10 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Custom Elements](http://customelements.io/)
 - [Polymer](https://www.polymer-project.org/1.0/)
 
+## Contributing
+
+Contributions are always welcome! Please read the [contribution guidelines](./contributing.md) first. Thanks to everyone who [has contributed](https://github.com/felipefialho/frontend-awesome/graphs/contributors) to this list over the years.
+
 ## License
 
-[MIT License](http://felipefialho.mit-license.org/) © Felipe Fialho
+[MIT](./license.md) © Felipe Fialho and contributors
