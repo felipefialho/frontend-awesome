@@ -329,6 +329,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 ## SVG
 
 - [Awesome SVG](https://github.com/willianjusten/awesome-svg) :octocat:
+- [Pic2SVG SVG Cut-File Checker](https://pic2svg.com/svg-cut-file-checker/) - Inspect local SVG files for open contours, image elements, live text and sizing issues without uploading them.
 - [Pic2Vector](https://pic2vector.com/) - Convert PNG, JPG and WebP images to SVG in the browser with vtracer compiled to WebAssembly.
 - [PixelTools Image to SVG](https://pixeltools.ai/image-to-svg) - Convert PNG images to adjustable SVG vectors in the browser.
 - [Sinwaver Generate SVG Sine Waves](https://www.sinwaver.com/)
