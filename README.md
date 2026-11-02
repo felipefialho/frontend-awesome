@@ -303,6 +303,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 ## Prototypes Generators
 
+- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - Free, source-available interface design tool built in Rust, with a local MCP server that lets AI agents inspect and edit the open file.
 - [draw.io](https://app.diagrams.net/)
 - [Excalidraw](https://excalidraw.com/) :octocat:
 - [Figma](https://www.figma.com/)
