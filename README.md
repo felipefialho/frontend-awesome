@@ -47,6 +47,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Icons](#icons)
 - [Images Generators](#images-generators)
 - [Images Optimizers](#images-optimizers)
+- [JSON Tools](#json-tools)
 - [Names Generators](#names-generators)
 - [Offline Docs](#offline-docs)
 - [Online Docs](#online-docs)
@@ -251,6 +252,10 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Optimizilla](https://imagecompressor.com/)
 - [Squoosh](https://squoosh.app/) :octocat:
 - [Tiny png](https://tinypng.com/)
+
+## JSON Tools
+
+- [BestJSON](https://bestjson.com/) - Format, validate and compare JSON locally in the browser without an account.
 
 ## Names Generators
 
