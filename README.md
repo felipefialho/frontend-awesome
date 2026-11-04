@@ -294,6 +294,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 ## Performance Analysis
 
+- [Betterloop Website Check](https://betterloopai.com/check)
 - [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 - [GTMetrix](https://gtmetrix.com/)
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)
