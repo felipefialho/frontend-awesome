@@ -341,7 +341,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 - [agent-qa](https://github.com/vostride/agent-qa) - Natural-language web testing with advanced memidex memory and self-improvement.
 - [Cypress](https://www.cypress.io/) :octocat:
-- [knobs](https://knobs.dev/) - Chrome extension and dev-only npm panel to test a page in dark mode, reduced motion, text size, locale, right-to-left, time zone and device sizes.
+- [knobs](https://knobs.dev/) - Chrome extension and dev-only npm panel to test a page in dark mode, reduced motion, text size, locale, right-to-left, time zone and device sizes. :octocat:
 - [Playwright](https://playwright.dev/) :octocat:
 - [Testing Library](https://testing-library.com/) :octocat:
 - [Vitest](https://vitest.dev/) :octocat:
