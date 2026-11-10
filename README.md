@@ -249,6 +249,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [JPEGmini](https://www.jpegmini.com/)
 - [Kraken.io](https://kraken.io/web-interface)
 - [Optimizilla](https://imagecompressor.com/)
+- [Quick Image Kit](https://quickimagekit.com/compress-image?utm_source=github&utm_medium=awesome_list&utm_campaign=frontend_awesome) - Browser-side image compressor, converter, resizer and cropper with exact-KB targets; files never leave the tab.
 - [Squoosh](https://squoosh.app/) :octocat:
 - [Tiny png](https://tinypng.com/)
 
