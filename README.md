@@ -317,6 +317,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 ## Share Utils
 
+- [AppScreen](https://appscreen.pro/) - Free browser tool to design App Store and Google Play screenshots.
 - [Carbon](https://carbon.now.sh/)
 - [Ray.so](https://ray.so/)
 - [screenshot.rocks](https://screenshot.rocks/)
