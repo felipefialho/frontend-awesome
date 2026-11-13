@@ -186,6 +186,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [APPLORE App Icon Generator](https://applore.app/app-icon-generator)
 - [Favic-o-matic](https://favicomatic.com/)
 - [Favicon & App Icon Generator](https://www.favicon-generator.org/)
+- [FaviconDL Favicon Generator](https://favicondl.com/tools.html)
 - [Real Favicon Generator](https://realfavicongenerator.net/)
 
 ## Feeds
