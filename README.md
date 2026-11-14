@@ -239,6 +239,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [DiceBear](https://www.dicebear.com/) :octocat:
 - [Fake images please?](https://fakeimg.pl/)
 - [Lorem Picsum](https://picsum.photos/)
+- [PixelArtHive](https://pixelarthive.com/) - Convert an image to a pixel-art grid and export a PNG for a web icon or mockup.
 - [Placehold.co](https://placehold.co/)
 
 ## Images Optimizers
