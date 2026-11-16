@@ -73,6 +73,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [NVDA](https://www.nvaccess.org/)
 - [Pa11y](https://pa11y.org/) :octocat:
 - [WAVE](https://wave.webaim.org/)
+- [Waysill](https://saffo.dev/) - Checks the page you are on against WCAG 2.2 (contrast, alt text, labels, headings, landmarks) with a clear fix for every issue.
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
 ## API
