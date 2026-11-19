@@ -69,6 +69,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Access Monitor](https://accessmonitor.acessibilidade.gov.pt/)
 - [axe DevTools](https://www.deque.com/axe/devtools/)
 - [Check My Colours](http://www.checkmycolours.com/)
+- [ColorPairLab](https://colorpairlab.online/tools/contrast-checker/) - Check WCAG contrast, find a passing color adjustment while keeping one color fixed, and share the resulting pair.
 - [Jaws](https://www.freedomscientific.com/products/software/jaws/)
 - [NVDA](https://www.nvaccess.org/)
 - [Pa11y](https://pa11y.org/) :octocat:
