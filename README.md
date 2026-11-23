@@ -245,6 +245,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 - [Compress png](http://compresspng.com/)
 - [Compressor.io](https://compressor.io/)
+- [Free Image Compressor](https://free-image-compressor.web-free.site/) - Batch compress and convert JPG, PNG and WebP locally in the browser (WASM), with before/after compare and ZIP download.
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) :octocat:
 - [JPEGmini](https://www.jpegmini.com/)
 - [Kraken.io](https://kraken.io/web-interface)
