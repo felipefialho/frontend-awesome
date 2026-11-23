@@ -278,6 +278,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Coddy](https://coddy.tech/playground/html)
 - [CodePen](https://codepen.io/)
 - [CodeSandbox](https://codesandbox.io/)
+- [CodeShack HTML Viewer](https://codeshack.io/html-viewer/)
 - [Ideone](https://ideone.com/)
 - [JS Bin](https://jsbin.com/)
 - [JSFiddle](https://jsfiddle.net/)
