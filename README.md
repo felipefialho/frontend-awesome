@@ -373,6 +373,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Informer](https://website.informer.com/)
 - [Plausible](https://plausible.io/) :octocat:
 - [Similar Web](https://www.similarweb.com/)
+- [TrustAnalytics](https://www.trustcomponent.com/en/products/analytics) - Cookieless web analytics with funnels, heatmaps and Web Vitals, hosted in the EU.
 - [Umami](https://umami.is/) :octocat:
 
 ## Web Components
