@@ -243,6 +243,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 ## Images Optimizers
 
+- [BatchSet](https://batchset.com/tools/image-compressor) - Compress whole folders of JPG, PNG and WebP images in the browser, with adjustable quality.
 - [Compress png](http://compresspng.com/)
 - [Compressor.io](https://compressor.io/)
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) :octocat:
