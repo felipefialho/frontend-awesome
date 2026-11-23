@@ -255,6 +255,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 ## Names Generators
 
 - [Behind The Name](https://www.behindthename.com/random/)
+- [BrandShield](https://brand-checker.appwrite.network/namer) - Free AI startup name generator with live 78+ TLD availability (IANA RDAP) and USPTO trademark screening.
 - [Fantasy Name Generator](https://www.fantasynamegenerators.com/)
 - [Intel Codename Picker](https://www.npmjs.com/package/intel-codenames-picker)
 
