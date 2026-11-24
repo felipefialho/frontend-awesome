@@ -184,6 +184,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 ## Favicons Generators
 
 - [APPLORE App Icon Generator](https://applore.app/app-icon-generator)
+- [Best Latest Apps Favicon Generator](https://bestlatestapps.com/tools/favicon-generator/) - Makes favicon.ico, an SVG favicon with dark mode, apple-touch-icon, PWA and maskable icons, the web manifest and the head tags from letters, an emoji or a logo.
 - [Favic-o-matic](https://favicomatic.com/)
 - [Favicon & App Icon Generator](https://www.favicon-generator.org/)
 - [Real Favicon Generator](https://realfavicongenerator.net/)
