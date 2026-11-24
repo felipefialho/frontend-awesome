@@ -173,6 +173,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Faker](https://fakerjs.dev/) :octocat:
 - [Generate Data](https://generatedata.com/)
 - [Mockaroo](https://www.mockaroo.com/)
+- [ToolsDock UUID Generator](https://toolsdock.online/en/tools/uuid-generator) - Generate and download batches of up to 1,000 UUID v4 identifiers for test fixtures in the browser.
 
 ## Deploy
 
