@@ -307,6 +307,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [draw.io](https://app.diagrams.net/)
 - [Excalidraw](https://excalidraw.com/) :octocat:
 - [Figma](https://www.figma.com/)
+- [Kite](https://kite.new) - Design tool your AI agents and team share; Claude, Cursor or Codex draw editable layers through a hosted MCP server.
 - [Marvel](https://marvelapp.com/)
 - [Mockflow](https://www.mockflow.com/)
 - [Moqups](https://moqups.com/)
