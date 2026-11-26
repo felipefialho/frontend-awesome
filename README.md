@@ -269,6 +269,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [CSS-Tricks](https://css-tricks.com/)
 - [Devdocs](https://devdocs.io/)
 - [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 - [W3C](https://www.w3.org/)
 - [web.dev](https://web.dev/)
 - [WHATWG](https://whatwg.org/)
