@@ -149,6 +149,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Open Props](https://open-props.style/)
 - [Pico CSS](https://picocss.com/)
 - [Radix UI](https://www.radix-ui.com/)
+- [ReUI](https://reui.io/?utm_source=github&utm_medium=community&utm_campaign=reui-nov26)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Web Awesome](https://webawesome.com/)
