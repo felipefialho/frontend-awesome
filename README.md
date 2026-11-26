@@ -243,6 +243,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 ## Images Optimizers
 
+- [Apps66 Exact-KB Image Compressor](https://apps66.com/compress-to-size) - 100% browser-local HTML5 Canvas image compressor targeting exact KB limits (20-500 KB or custom) with zero uploads (free up to 5 images/batch).
 - [Compress png](http://compresspng.com/)
 - [Compressor.io](https://compressor.io/)
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) :octocat:
