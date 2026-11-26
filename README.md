@@ -68,7 +68,6 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 - [Access Monitor](https://accessmonitor.acessibilidade.gov.pt/)
 - [axe DevTools](https://www.deque.com/axe/devtools/)
-- [Check My Colours](http://www.checkmycolours.com/)
 - [Jaws](https://www.freedomscientific.com/products/software/jaws/)
 - [NVDA](https://www.nvaccess.org/)
 - [Pa11y](https://pa11y.org/) :octocat:
@@ -157,7 +156,6 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 - [Blend](http://colinkeany.com/blend/)
 - [Clippy](https://bennettfeely.com/clippy/)
-- [CSS Animate](http://cssanimate.com/)
 - [CSS Button Generator](http://css3buttongenerator.com/)
 - [CSS Gradient Editor](https://www.colorzilla.com/gradient-editor/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
@@ -223,7 +221,6 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 ## Icons
 
-- [Character Entities](https://brajeshwar.github.io/entities/) :octocat:
 - [Font Awesome](https://fontawesome.com/) :octocat:
 - [Fontello](https://fontello.com/)
 - [Heroicons](https://heroicons.com/) :octocat:
@@ -325,7 +322,6 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 - [CSS Sprites](https://www.toptal.com/developers/css/sprite-generator)
 - [Sprite Cow](http://www.spritecow.com/)
-- [SpritePad](http://wearekiss.com/spritepad)
 
 ## SVG
 
@@ -352,7 +348,6 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Beer Ipsum](http://beeripsum.com/)
 - [Blindtext](https://www.blindtextgenerator.com/lorem-ipsum)
 - [Bluth Ipsum](http://bluthipsum.com/)
-- [Compadre Ipsum](http://compadreipsum.com.br/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Cupcake Ipsum](http://cupcakeipsum.com/)
 - [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/)
 - [Fillerama Ipsum](http://chrisvalleskey.com/fillerama/)
@@ -360,12 +355,10 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Liquor Ipsum](http://liquoripsum.com/)
 - [Lorem Ipsum](https://br.lipsum.com/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Lorizzle](http://lorizzle.nl/)
-- [Miojo Ipsum](http://miojoipsum.com/)
 - [Mussum Ipsum](https://mussumipsum.com/) <span>&#x1f1e7;&#x1f1f7;</span>
 - [Random Text](http://randomtextgenerator.com/)
 - [Slipsum](http://slipsum.com/)
 - [TV Ipsum](http://tvipsum.com/)
-- [Veggie Ipsum](http://veggieipsum.com/)
 - [Zombie Ipsum](http://www.zombieipsum.com/)
 
 ## Visits Analysis
