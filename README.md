@@ -250,6 +250,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 - [Kraken.io](https://kraken.io/web-interface)
 - [Optimizilla](https://imagecompressor.com/)
 - [Squoosh](https://squoosh.app/) :octocat:
+- [Tinymast](https://tinymast.com/image-compress/) - Compress images and PDFs online; uploaded files and results are deleted within 24 hours.
 - [Tiny png](https://tinypng.com/)
 
 ## Names Generators
